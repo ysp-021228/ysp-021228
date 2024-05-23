@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ysp-021228
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hello, I'm Songping, a graduate in IoT Engineering from SZTU.**
 
-<!---
-ysp-021228/ysp-021228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+During my university years：
+
+- Involved in the RoboMaster competition.
+- Focusing primarily on embedded software development. 
+- **Captain of the SZTU_Hanjiang team(2023 season).**
+
+
+
+I am currently preparing to participate in the **FRC** competition.
