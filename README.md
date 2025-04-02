@@ -7,7 +7,4 @@ During my university years：
 - **Captain of the SZTU_Hanjiang team(2023 season).**
 
 
-
-I am currently preparing to participate in the **FRC** competition.
-
 Website：www.ysongping.com
